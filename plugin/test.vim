@@ -1,1 +1,1 @@
-let g:test_test = 'master'
+let g:test_test = 'syntax'
